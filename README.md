@@ -1,2 +1,2 @@
 # world-happiness
-exercice GitHub et l'outil GitHub Desktop
+un projet de prédiction du niveau de bonheur d'une population
